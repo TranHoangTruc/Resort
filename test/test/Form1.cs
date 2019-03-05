@@ -21,6 +21,7 @@ namespace test
             int a = int.Parse(textBox1.Text);
             int b = int.Parse(textBox2.Text);
             int c = a + b;
+            label1.Text = c.ToString();
         }
     }
 }
