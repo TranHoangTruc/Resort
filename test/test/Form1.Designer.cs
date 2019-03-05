@@ -64,14 +64,22 @@
             // 
             // textBox1
             // 
+<<<<<<< HEAD
             this.textBox1.Location = new System.Drawing.Point(85, 183);
+=======
+            this.textBox1.Location = new System.Drawing.Point(66, 189);
+>>>>>>> feature-cal
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 22);
             this.textBox1.TabIndex = 3;
             // 
             // textBox2
             // 
+<<<<<<< HEAD
             this.textBox2.Location = new System.Drawing.Point(59, 148);
+=======
+            this.textBox2.Location = new System.Drawing.Point(42, 161);
+>>>>>>> feature-cal
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(100, 22);
             this.textBox2.TabIndex = 4;

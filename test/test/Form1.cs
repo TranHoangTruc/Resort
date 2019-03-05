@@ -18,10 +18,17 @@ namespace test
 
         private void button1_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             int a = int.Parse(textBox1.Text);
             int b = int.Parse(textBox2.Text);
             int c = a + b;
             label1.Text = c.ToString();
+=======
+            int so1 = int.Parse(textBox1.Text);
+            int so2 = int.Parse(textBox2.Text);
+            int d = so1 + so2;
+            label1.Text = d.ToString();
+>>>>>>> feature-cal
         }
     }
 }
